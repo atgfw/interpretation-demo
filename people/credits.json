@@ -1,0 +1,59 @@
+{
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/",
+    "terms": "All photos and videos on Pexels are free to use. Attribution is not required."
+  },
+  "retrieved": "2026-10-19",
+  "processing": "Square crop around the face, resized to 160x160, encoded as WebP (ffmpeg libwebp, quality 82). Source downloaded from images.pexels.com.",
+  "files": [
+    {
+      "file": "sarah.webp",
+      "persona": "Sarah Mitchell, clinic nurse (caller, Spanish track)",
+      "source_url": "https://www.pexels.com/photo/4930705/",
+      "source_caption": "Young nurse in blue scrubs smiling and holding a stethoscope in a hospital corridor.",
+      "photographer": "Mix and Match Studio",
+      "license": "Pexels License"
+    },
+    {
+      "file": "megan.webp",
+      "persona": "Megan Foster, city water / municipal services desk (caller, Haitian Creole track)",
+      "source_url": "https://www.pexels.com/photo/5292269/",
+      "source_caption": "A professional woman in a white shirt making a phone call in an indoor setting.",
+      "photographer": "Antoni Shkraba",
+      "license": "Pexels License"
+    },
+    {
+      "file": "ashley.webp",
+      "persona": "Ashley Cole, hospital billing (caller, language-unknown track)",
+      "source_url": "https://www.pexels.com/photo/6535381/",
+      "source_caption": "Confident female call center agent smiling at the camera with a headset.",
+      "photographer": "Michael Wysmierski",
+      "license": "Pexels License"
+    },
+    {
+      "file": "marisol.webp",
+      "persona": "Marisol Vega, Latin American Spanish interpreter",
+      "source_url": "https://www.pexels.com/photo/8867421/",
+      "source_caption": "Smiling female call center representative with a headset in an office setting.",
+      "photographer": "Yan Krukau",
+      "license": "Pexels License"
+    },
+    {
+      "file": "fabienne.webp",
+      "persona": "Fabienne Charles, Haitian Creole interpreter",
+      "source_url": "https://www.pexels.com/photo/7689659/",
+      "source_caption": "Close-up of a smiling woman with afro hair wearing a headset, providing customer support.",
+      "photographer": "Jep Gambardella",
+      "license": "Pexels License"
+    },
+    {
+      "file": "rowena.webp",
+      "persona": "Rowena Santos, Filipino (Tagalog) operator-desk interpreter",
+      "source_url": "https://www.pexels.com/photo/29088255/",
+      "source_caption": "Portrait of a smiling Filipina woman outdoors in Davao Region, Philippines.",
+      "photographer": "Justyn Abacajan",
+      "license": "Pexels License"
+    }
+  ]
+}
